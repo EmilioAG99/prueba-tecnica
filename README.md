@@ -56,3 +56,7 @@ Design an API endpoint that provides autocomplete suggestions for large cities i
 
 1. [Flask Installation](https://flask.palletsprojects.com/en/2.2.x/installation/)
 2. [Flask Quick start](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
+
+## 4. Test
+![Sucessful](https://user-images.githubusercontent.com/44034926/215229100-243ebec6-94b9-4171-8d8b-64fe573e163b.png)
+![Empty](https://media.discordapp.net/attachments/929234619885289482/1068682730558193705/Screen_Shot_2023-01-27_at_6.03.32_p.m..png)
